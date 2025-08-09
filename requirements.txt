@@ -1,0 +1,20 @@
+# Web framework
+fastapi
+uvicorn
+
+# OpenAI and LLM integration
+openai
+langchain
+
+# PDF processing
+pdfplumber
+PyMuPDF
+unstructured
+
+# Vector search
+faiss-cpu
+
+# Env vars and utilities
+python-dotenv
+tqdm
+pydantic
